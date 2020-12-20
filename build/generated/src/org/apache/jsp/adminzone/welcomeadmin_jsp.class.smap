@@ -1,0 +1,27 @@
+SMAP
+welcomeadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 welcomeadmin.jsp
+adminzone/welcomeadmin.jsp
++ 1 adminhead.jsp
+adminzone/adminhead.jsp
++ 2 adminfooter.jsp
+adminzone/adminfooter.jsp
+*L
+3,7:54
+9,15:61
+1#1,36:76
+37:112,3
+38,2:115
+23#0,26:117
+49,7:144
+55,2:151
+57,4:153,3
+61,2:165
+63,3:168
+65,4:171
+1#2,46:175
+68#0,9:221
+*E

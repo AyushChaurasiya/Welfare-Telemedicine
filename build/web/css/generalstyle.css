@@ -1,0 +1,281 @@
+
+#wrapper
+{
+height:2865px;
+width: 1525px;
+}
+
+#header
+{
+    
+    background-color: #63599e;
+    z-index: 102;
+    height: 175px;
+    width: 100%;
+    overflow: visible;
+    color: #fff;
+    position: relative;
+    
+    opacity: 1;
+    margin-left: -10px;
+    margin-right: -5px;
+}
+#menu1
+{
+    width: 100%;
+    background-color: #5b5291;
+    text-align: right;
+    font-size: .75rem;
+    height: 40px;
+    color:white;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    line-height: 1;
+    overflow: hidden;
+}
+#menu1 ul
+{
+    
+
+}
+#menu1 ul li
+{
+  
+    display: inline;
+    width: 50px;
+    height: 20px;;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+#menu1 ul li a
+{
+    color:#fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+#middle
+{
+    height: 70px;
+    width: 100%;
+    
+}
+#logo
+{
+    width:50%;
+    height: 50px;
+    float: left;
+}
+#logo img
+{
+    margin-top: -90px;
+}
+#search
+{
+    width:50%;
+    height: 50px;
+    float: right;
+}
+#search input[type="text"]
+{
+    position: absolute;
+    z-index: 4;
+    bottom: 65px;
+    right: 10px;
+    width: auto;
+    padding: 5px 15px 7px 15px;
+    border-radius: 2px;
+    border:none;
+    border-bottom: #fff 1px solid;
+    background-color: #63599e;
+    color:#fff;
+    margin-right: 20px;
+}
+::placeholder
+{
+    color: white;
+    text-align: left;
+    
+}
+input[placeholder]
+{
+    text-align: left;
+}
+#menu2
+{
+    width: 100%;
+  
+    text-align: left;
+    font-size: 33px;
+    height: 65px;
+    color:white;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    vertical-align: text-top;
+    overflow: hidden;
+}
+#menu2 ul li
+{
+  
+    display: inline;
+    width: 50px;
+    height: 20px;;
+    padding-right: 90px;
+    margin-top: 0px;
+}
+#menu2 ul li a
+{
+    color:#fff;
+    text-decoration: none;
+    font-size: 15px;
+    vertical-align: text-top;
+    text-align:center;
+    
+}
+
+#container
+{
+    width:100%;
+    height:1500px;
+    margin-left: -10px;
+    margin-right: -5px;
+}
+#left
+{
+    float: left;
+    width: 30%;
+    height:1455px;
+    //background: red;
+}
+#main
+{
+    float: right;
+    width: 69%;
+    height: 1455px;
+    border-left: 1px solid;
+    //background: blue;
+}
+.news
+{
+    width: 90%;
+    height: 150px;
+   
+    box-shadow: 5px 5px 8px rgba(0,0,0,0.3);
+    margin: 0px auto;
+}
+.pic
+{
+    width:50%;
+    height: 150px;
+    float: left;
+    background-color: blanchedalmond;
+
+   
+}
+.content
+{   text-align: center;
+    
+    width:50%;
+    height: 150px;
+    float: right;
+   // background-color: blue;
+font-family: Helvetica,Arial,sans-serif;
+   
+}
+#benefits
+{
+   width: 100%;
+    height:500px;
+        font-family: Helvetica,Arial,sans-serif;
+   
+}
+#b1
+{
+    width:100%;
+    height: 100px;
+     //background-color: brown;
+}
+#b2
+{
+    width: 100%;
+    height: 300px;
+    
+} 
+#b3
+{
+    width: 100%;
+    height: 100px;
+     //background-color: fuchsia;
+}
+#b21
+{
+    width:29%;
+    height: 300px;
+    float: left;
+    //background-color: chocolate;
+}
+#b22
+{
+    width:30%;
+    height: 300px;
+    float: left;
+    //background-color:coral;
+}
+#b23
+{
+    width:29%;
+    height: 300px;
+    float: left;
+    //background-color: darkmagenta;
+}
+.padd
+{
+    width:2%;
+    height: 300px;
+    float: left;
+}
+.padd2
+{
+    width:4%;
+    height: 300px;
+    float: left;
+}
+button
+{
+border-radius: 35px;
+font-size: 18px;
+line-height: 24px;
+background: #003da5;
+color: #fff;
+padding: 16px 20px;
+display: inline-block;
+border:none;
+margin-top: 20px;
+}
+button:hover
+{
+        text-decoration: underline;
+}
+#footer
+{
+    width: 100%;
+    height:500px;
+    background: #27251f;
+    font-family: Helvetica,Arial,sans-serif;
+    color: white;
+    margin-left: -10px;
+    margin-right: -5px;
+}
+.padder
+{
+    width:100%;
+    height: 50px;
+}
+#fcont
+{
+    width:100%;
+    height: 400px;
+}
+.f
+{
+    width:25%;
+    height:400px;
+    float:left;
+}

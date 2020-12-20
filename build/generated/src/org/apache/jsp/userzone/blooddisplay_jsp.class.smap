@@ -1,0 +1,31 @@
+SMAP
+blooddisplay_jsp.java
+JSP
+*S JSP
+*F
++ 0 blooddisplay.jsp
+userzone/blooddisplay.jsp
++ 1 userhead.jsp
+userzone/userhead.jsp
++ 2 userfooter.jsp
+userzone/userfooter.jsp
+*L
+1,10:53
+10,9:63
+1#1,38:72
+39,2:111
+40:113
+41:114,3
+42,4:117
+46:121,3
+47,2:124
+18#0,13:126
+31,7:140
+37,2:147
+39,4:149,3
+43,8:161
+51,2:170
+52,4:172
+1#2,48:176
+55#0,8:224
+*E

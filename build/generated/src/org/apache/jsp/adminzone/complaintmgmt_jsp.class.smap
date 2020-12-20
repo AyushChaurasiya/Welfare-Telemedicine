@@ -1,0 +1,29 @@
+SMAP
+complaintmgmt_jsp.java
+JSP
+*S JSP
+*F
++ 0 complaintmgmt.jsp
+adminzone/complaintmgmt.jsp
++ 1 adminhead.jsp
+adminzone/adminhead.jsp
++ 2 adminfooter.jsp
+adminzone/adminfooter.jsp
+*L
+3,7:54
+9,14:61
+1#1,37:75
+22#0,16:112
+38,7:129
+44,2:136
+46,6:138,3
+52:156
+53:157,3
+54,6:160
+60,2:167
+61,4:169
+1#2,4:173
+64#0:177
+65:178,3
+66,7:181
+*E

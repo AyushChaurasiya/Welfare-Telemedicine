@@ -1,0 +1,40 @@
+SMAP
+postquestion_jsp.java
+JSP
+*S JSP
+*F
++ 0 postquestion.jsp
+userzone/postquestion.jsp
++ 1 userhead.jsp
+userzone/userhead.jsp
++ 2 userfooter.jsp
+userzone/userfooter.jsp
+*L
+1,5:53
+7,7:59
+13,10:66
+1#1,38:76
+39,2:115
+40:117
+41:118,3
+42,4:121
+46:125,3
+47,2:128
+22#0,19:130
+42,6:151
+47,2:157
+49:159,3
+50:162
+51:163,3
+52:166
+53:167,3
+54:170
+55:171,3
+56:174
+57,2:175,5
+59,2:185
+61,5:188
+65,6:193
+1#2,48:199
+70#0,9:247
+*E

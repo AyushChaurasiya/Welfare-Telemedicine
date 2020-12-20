@@ -1,0 +1,21 @@
+SMAP
+blooddonation_jsp.java
+JSP
+*S JSP
+*F
++ 0 blooddonation.jsp
+adminzone/blooddonation.jsp
++ 1 adminhead.jsp
+adminzone/adminhead.jsp
++ 2 adminfooter.jsp
+adminzone/adminfooter.jsp
+*L
+3,7:54
+9,37:61
+1#1,36:98
+37:134,3
+38,2:137
+45#0,45:139
+1#2,51:184
+89#0,9:235
+*E
